@@ -13,7 +13,6 @@ import { Dialog, Transition } from '@headlessui/react';
 interface Bks {
   id: number;
   name: string;
-  logo: string;
 }
 
 interface FormErrors {
