@@ -1,0 +1,22 @@
+export const listBks = [
+  { id: 1, name: 'UBS Group AG' },
+  { id: 2, name: 'Credit Suisse Group AG' },
+  { id: 3, name: 'Julius Baer Group' },
+  { id: 4, name: 'Zurich Cantonal Bank' },
+  { id: 5, name: 'Raiffeisen Switzerland' },
+  { id: 6, name: 'PostFinance' },
+  { id: 7, name: 'Banque Cantonale Vaudoise' },
+  { id: 8, name: 'Basler Kantonalbank' },
+  { id: 9, name: 'St. Galler Kantonalbank' },
+  { id: 10, name: 'Lombard Odier Group' },
+  { id: 11, name: 'Pictet Group' },
+  { id: 12, name: 'Vontobel Holding AG' },
+  { id: 13, name: 'Banque Cantonale de Genève' },
+  { id: 14, name: 'Swissquote Bank' },
+  { id: 15, name: 'Hypothekarbank Lenzburg AG' },
+  { id: 16, name: 'Thurgauer Kantonalbank' },
+  { id: 17, name: 'Banque Cantonale Neuchâteloise' },
+  { id: 18, name: 'Schaffhauser Kantonalbank' },
+  { id: 19, name: 'Berner Kantonalbank' },
+  { id: 20, name: 'Zuger Kantonalbank' }
+];
