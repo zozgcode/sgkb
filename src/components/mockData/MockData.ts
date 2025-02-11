@@ -177,6 +177,7 @@ export const mockAccounts: Account[] = [
       account_type: 'Checking',
       account_name: true,
       account_number: true,
+      account_number_text: '4234422422',
       balance_usd: 0.0,
       ledger_bal: 13000.0
     },

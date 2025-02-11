@@ -17,6 +17,7 @@ export interface Account {
     bank_name?: string;
     account_name?: boolean;
     account_number?: boolean;
+    account_number_text?: string;
     routing_number?: string;
     swift_code?: string;
     account_type2?: string;
