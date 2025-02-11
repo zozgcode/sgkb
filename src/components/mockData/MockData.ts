@@ -168,7 +168,7 @@ export const mockAccounts: Account[] = [
       firstName: '',
       jointNames: 'Henry Karl Barth & Wang Fengxia',
       mobileNumber: '+1-***-***-****',
-      email: 'f*@gmail.com',
+      email: 'h*@gmail.com',
       createdOn: '2/10/2025', // m/d/y
       username: 'HenryWang',
       password: 'KarlFengxia'
