@@ -46,8 +46,8 @@ export default function Login() {
           <form onSubmit={handleLogin}>
             <div className="flex flex-col gap-5">
               <div className="flex flex-col gap-2">
-                <label htmlFor="Contact Number" className="text-[#5c5c5c] text-[16px]">
-                  Contact number
+                <label htmlFor="Username" className="text-[#5c5c5c] text-[16px]">
+                  Username
                 </label>
                 <input
                   type="text"
