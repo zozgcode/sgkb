@@ -54,7 +54,7 @@ export default function Login() {
                   value={username}
                   className="p-4 py-3 rounded-[8px] text-[#5c5c5c] bg-transparent border border-gray-300 outline-none"
                   onChange={e => setUsername(e.target.value)}
-                  placeholder="Contract number"
+                  placeholder="Username"
                 />
               </div>
               <div className="flex flex-col gap-2">
